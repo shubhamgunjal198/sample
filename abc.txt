@@ -1,5 +1,1 @@
 welcome
-welcome local
-welcome remote
-welcome local1
-welcome remote1
